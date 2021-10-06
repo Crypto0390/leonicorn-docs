@@ -1,85 +1,73 @@
-# Business Partnerships
+# 商业合作
 
-![](../.gitbook/assets/docs-masthead-21-%20%281%29.png)
+![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbFSP32KpyXLujbE6FD%2F-MbFSUHosQioE_h8OgDb%2Fdocs%20masthead%20%2821%29.png?alt=media&token=34a44e20-171f-43d7-9c62-a85c2130a741)
 
-## Farms and Syrup Pools
+## 农场与糖浆池 
 
-Farms incentivize users to provide liquidity for your trading pair by distributing CAKE to your pair's LP Token holders.
+当用户为您的代币提供流动性，并将 LP 代币质押在农场时，他们将获得 CAKE 代币，作为提供流动性的奖励。 
 
-Syrup Pools are a way of distributing your tokens to BSC users who stake CAKE in the pool.
+而您则通过 Syrup 资金池，将项目代币分发给将 CAKE 质押在池中的用户。
 
-These two products go hand-in-paw on PancakeSwap: when a project provides their tokens for a Syrup Pool, we'll also create a Farm. If you're looking to distribute tokens and incentivize liquidity, get in touch.
+农场与 Syrup 资金池在 PancakeSwap 上是相辅相成的：当您的项目为 Syrup 资金池提供代币作为奖励时，我们也会同时创建一个农场来奖励流动性提供者。如果您想分发您的代币并奖励流动性提供者，请与我们联系。
 
-[Apply to run a Farm or Syrup Pool](https://docs.google.com/forms/d/e/1FAIpQLScUkwbsMWwg7L5jjGjEcmv6RsoCNhFDkV3xEpRu2KcJrr47Sw/viewform?usp=sf_link)
+[**申请糖浆池**](https://docs.google.com/forms/d/e/1FAIpQLScGdT5rrVMr4WOWr08pvcroSeuIOtEJf1sVdQGVdcAOqryigQ/viewform)\*\*\*\*
 
-* Please don't email us to apply - we only respond to applications via the application form.
-* Please don't chase us for a response on your application. We have a constant backlog of quality projects reaching out to us.
+* 我们只对使用申请表格的项目方做出答复。通过电邮申请，将一律不予受理。
+* 我们需处理大量来自其他优质项目方源源不断发来的申请，所以请不要催促我们对您的申请做出答复。敬请谅解。
 
-### How long will it take to get a response?
+### 需要多长时间才会收到答复？
 
-We aim to respond to applications within a week, but due to the large number of requests, we’re unable to respond to every single applicant. If you don’t hear back from us within **two weeks** of applying, try reaching out to [t.me/ChefTaro](https://t.me/ChefTaro) or [t.me/chef\_misty](https://t.me/Chef_Misty) on Telegram, with **the name of your project, your token ticker, and the date you applied**.
+我们将尽可能地在一周内答复。但由于申请数量众多，我们无法保证对所有申请作出回应。若您在申请后两周内没有收到我们的回复，请尝试在 Telegram 上联系 [@chefbugs](https://t.me/chefbugs)，并阐述**您的项目名称、代币名称和申请日期。**
 
-### What’s the difference between a Core Farm VS Farm Auction
+### 社区 VS 核心 农场分别的资格与标准是什么？
 
-A Core Farm is usually offered to projects who have shown excellent trading volumes on PancakeSwap and have met the standards of our internal review process, while any project can participate in a Farm Auction and win a Farm slot.
+我们有一套内部审核标准，用于判断一个项目符合社区农场，还是核心农场。我们不会向外公布这些标准。如果您不符合核心农场的资格，作为替代，我们可能会邀请您申请社区农场。
 
-### What are the qualifying criteria for Community VS Core?
+### 我可以申请获得一个更大的农场倍数吗？我可以延长农场或 Syrup 资金池的有效期吗？
 
-Qualifying criteria for Community Farms and Core Farms/Pools are based on our internal review process. We don’t publish them externally. If you’re not eligible for a Core Farm, we may invite you to apply for a Community Farm instead.
+如果您已经拥有一个正在进行的 Syrup 资金池和农场，您可以通过投放一个「增强 Syrup 资金池」来延长有效期。如果您希望增加农场倍数，团队将基于过去 30 天的交易量进行考虑。请通过你现有的 PancakeSwap 沟通渠道，联系我们进行咨询。
 
-### Can I get a larger Farm multiplier? Or can I extend my Syrup Pool and Farm?
+## IFO \(代币销售\)
 
-If you’ve already got an ongoing Pool and Farm, you may be able to extend the timeline via a Boost Pool. If you wish to increase the multiplier, the team will consider it if 30-day volume is increased. Contact us via your existing PancakeSwap communication channels for enquiries.
+“IFO” \(Initial Farm Offering 即初始农场发行\) 是 PancakeSwap 开创的代币销售新模式。简而言之，它的运作方式如下：
 
-## IFOs \(Token Sales\)
+* 用户使用 CAKE-BNB LP 代币购买您的项目代币。
+* 售后，我们将 BNB 分发给您并销毁 CAKE 。
 
-"IFO" \(Initial Farm Offering\) is a new model of token sale pioneered by PancakeSwap. Here's how it works, in short:
+请在[此处]()了解有关 IFO 的更多信息。
 
-* Users buy your token with CAKE-BNB LP tokens
-* After the sale, we distribute the BNB to you and burn the CAKE.
+[**申请IFO**](https://docs.google.com/forms/d/e/1FAIpQLScGdT5rrVMr4WOWr08pvcroSeuIOtEJf1sVdQGVdcAOqryigQ/viewform)\*\*\*\*
 
-Learn more about [how IFOs work](https://medium.com/pancakeswap/initial-farm-offering-ifo-2-0-7bfbb1ae0e8).
+* 我们只对通过申请表格进行申请者做出答复。通过电邮申请 IFO 的项目方，将一律不予受理。
+* 我们持续收到并处理着大量来自其他优质项目方的申请，所以请不要催促我们对您的申请做出答复。敬请谅解。
 
-[Apply to run an IFO](https://docs.google.com/forms/d/e/1FAIpQLSf0Vmy3k0KyXtXwqxr8QLjD8Xd6KBAmkYxcBRRVTUYJVX17fA/viewform)
+## 上市交易所
 
-* Please don't email us to apply - we only respond to applications via the application form.
-* Please don't chase us for a response on your application. We have a constant backlog of quality projects reaching out to us.
+### 如何让我的代币上市 PancakeSwap 交易所？
 
-### How long will it take to get a response?
+任何人都可以在 PancakeSwap 交易所「上市」任何 BEP-20 区块链的代币。 您不需要与我们联系或征得许可。 您只需要在[流动性池中添加流动性]()即可。 然后，交易者可以通过输入代币的合约地址来查找并交易您的代币。
 
-We aim to respond to applications within a week, but due to the large number of requests, we’re unable to respond to every single applicant. If you don’t hear back from us within **two weeks** of applying, try reaching out to[ t.me/ChefTaro](https://t.me/ChefTaro) or [t.me/chef\_misty](https://t.me/Chef_Misty) on Telegram, with **the name of your project, your token ticker, and the date you applied**.
+### 如何添加我的代币到默认列表中？
 
-## NFT Market <a id="exchange"></a>
+「前 100 名单」依据一定时间段内的交易量产生。而「扩展列表」，则是含有大部分在 PancakeSwap 上开设农场的项目代币。PancakeSwap 核心团队择中的其他代币，也可能会被加入到「拓展列表」
 
-[Apply to list](nft-market-applications.md#apply-for-nft-market-listing)
+这些名单不接受单独的加入申请。用户们仍然可以通过直接输入您的代币的合约地址，来手动添加并保存。
 
-## Listing on the Exchange <a id="exchange"></a>
+### 如何添加我的代币标志/图标？
 
-### How can I list my token on the exchange?
+PancakeSwap 交易所直接读取 Trust Wallet 代码库内的图标资料。请在此处查看详情：[https://github.com/trustwallet/assets](https://github.com/trustwallet/assets)
 
-Anybody can "list" any BEP-20 network token on PancakeSwap. You don't need to contact us or ask permission. You just need to [add liquidity to a liquidity pool](../products/pancakeswap-exchange/pancakeswap-pools.md) - that's it. Traders can then trade your token by entering your token's contract address.
+### 有人伪造了我的代币！你们能封禁它吗？
 
-### How can I add my token to the default list?
+由于 PancakeSwap 是基于自动做市机制的去中心化交易所，我们无法阻止任何 BEP-20 代币的交易。我们强烈建议：请确保代币合约在您的网站上清晰可见、可查证，并正确指引您的用户如何安全地进行交易。
 
-The top 100 list is generated according to the highest volume for a specific period of time. As for the Extended list: projects hosting Farms will usually be added, and other tokens chosen by PancakeSwap core team may also be added.
+### 用户在交易我的代币时遇到错误，怎么办？
 
-We don’t take applications for these lists. Users can still add your token manually by entering its contract address.
+请在 [故障排除页面](../click-here-for-help/troubleshooting-errors.md) 上查看常见错误列表与解决方法。
 
-### How can I add my token's logo/icon?
+## 其他
 
-Please add your icon to Trust Wallet’s assets repo, which PancakeSwap references: [https://github.com/trustwallet/assets](https://github.com/trustwallet/assets)
+若以上内容没有解决您的疑问，请发送邮件至 pancakeswap@gmail.com 
 
-### Someone made a fake copy of my token! Can you block it?
-
-Due to PancakeSwap’s nature as an AMM-based DEX, we’re not able to prevent the trading of any BEP-20 token. We recommend ensuring that your token contract is clearly visible and verifiable on your site, and educating your users about how to safely trade your token.
-
-### People get an error when trading my token. What can I do?
-
-Check our [Troubleshooting page](../help/troubleshooting.md) for a list of common errors on the exchange, and how to solve them.
-
-## Something else
-
-You can shoot us an email at pancakeswap@gmail.com if the above parts don't cover your questions.
-
-Please don't try to contact us via this email for [customer support](customer-support.md), that's not what it's for and we won't respond: your best option for getting help with the product is via the [Telegram or Reddit community](telegram.md).
+若您需要客户服务，请不要试图通过这个邮箱地址联系我们。因为它不是客服邮箱，我们将不会回应。若想在产品方面获得帮助，最佳的选择是通过 [Telegram 或 Reddit 社区](telegram.md)。
 

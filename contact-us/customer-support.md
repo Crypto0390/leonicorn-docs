@@ -1,19 +1,19 @@
-# Customer Support
+# 客户服务
 
-![Well, the thing is...](../.gitbook/assets/docs-masthead-23-.png)
+## PancakeSwap 没有客服！
 
-## There is NO customer support for PancakeSwap.
+如果您遇到问题，
 
-If you're experiencing issues,
-
-1. First check [the troubleshooting page](../help/troubleshooting.md) for your error code
-2. If you can't find a solution, try reaching out in your local [Telegram group](https://t.me/joinchat/T3eNhe_Cvi7rGW-_).
+1. 请先查看 [错误排除指南页面](../click-here-for-help/troubleshooting-errors.md) 并检索您的错误代码。
+2. 如果找不到解决方案，请尝试联系 [官方中文电报 \(Telegram\) 群](telegram.md)。
 
 {% hint style="danger" %}
-Admins will NEVER send you a direct message. If anybody approaches you directly on e.g. Telegram pretending to represent customer support, please block them and report as spam.
+管理员**绝对不会**主动跟您私聊。如果有人假扮成客服直接与您联系，请立即点击封禁并将其举报为垃圾信息。
 {% endhint %}
 
 {% hint style="danger" %}
-**NEVER, under any situation, should you ever give someone your private key or recovery phrases. Immediately block and report anyone that asks for them.**
+**任何情况下都绝对不要给任何人提供您的私钥或助记词。如果有人向您索取私钥或助记词，请立即将其举报并封禁。**
 {% endhint %}
+
+
 

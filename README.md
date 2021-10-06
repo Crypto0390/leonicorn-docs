@@ -1,88 +1,81 @@
-# PancakeSwap Intro
-
-
+# PancakeSwap 介绍
 
 ![](.gitbook/assets/masthead-twitter-3-%20%281%29%20%281%29.png)
 
 {% hint style="success" %}
-#### PancakeSwap helps you make the most out of your crypto in three ways:
+#### PancakeSwap 致力为您最大化利用虚拟货币资产！
 
-#### Trade, Earn, and Win.
+#### 交易。赚钱。赢奖。
 {% endhint %}
 
-## ↔️ Trade
+## ↔️ 去中心化代币交易
 
-> Instantly swap crypto tokens: no registration or account needed.
+> 即刻开始交易虚拟货币：无需注册账号
 
-### The people's choice
+### 众心所向
 
-PancakeSwap is the leading decentralized exchange on Binance Smart Chain, with the highest trading volumes in the market \(sources: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)\).
+PancakeSwap 是币安智能链上领先的去中心化交易所，交易量在市场上遥遥领先（来源：[1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)）。
 
-### Low fees
+### 低手续费
 
-Why pay more? PancakeSwap runs on Binance Smart Chain, a blockchain with much lower transaction costs than Ethereum or Bitcoin.   
-Trading fees are lower than other top decentralized exchanges too, so that's a double win for you!
+何必多花冤枉钱？PancakeSwap 在币安智能链上运行。对比以太坊或比特币，币安智能链拥有低廉的交易成本。PancakeSwap 的交易手续费也远比其他顶级去中心化交易所低。所以，对您来说，这绝对是一箭双雕。
 
-### Decentralized
+### 去中心化
 
-Trade directly from your wallet app.   
-Unlike centralized exchanges like Binance or Coinbase, PancakeSwap doesn’t hold your funds when you trade: **you have 100% ownership of your own crypto**. 
+直接使用您的钱包 App 开始交易。  
+不同于币安或 Coinbase 等中心化交易所，PancakeSwap 在交易时不会持有您的资金：**您对自己的加密货币有 100% 的所有权。**
 
-## 💸 Earn
+## 💸 赚取利息及手续费
 
-> Earn CAKE and other tokens for free with super high interest rates.
+> 以超高的年化利率，免费赚取 CAKE 和其他代币
 
-### Earn tokens with Syrup Pools
+### 使用 Syrup 资金池赚取代币
 
-Stake CAKE, earn free tokens. It’s really that easy.   
-CAKE holders right now are earning tens of millions of USD worth of free tokens each week from major projects. New projects join the party every day, so you can earn more, for even longer.
+质押 CAKE，免费赚取代币。是不是很简单？  
+如今，CAKE 的持有人每周都能从核心项目中，赚取价值数千万美元的免费代币。每天都有新的项目不断加入，让您不仅赚得更多，而且赚得更久。
 
-### Earn CAKE with Yield Farms
+### 使用农场赚取 CAKE
 
-Stake LP tokens, earn CAKE. You take on a little more exposure to market fluctuations than with the Syrup Pools, but can earn higher APR to offset the risk.
+投入 LP 代币，赚取 CAKE。与 Syrup 资金池相比，您或许要承担更多的市场波动风险。但更高的年利率，能为您减少市场波动带来的影响。
 
-### Earn Trading Fees
+### 赚取交易手续费
 
-No farm? No problem. Even if your trading pair isn’t supported on the Farms page, you can still earn trading fees when you stake your tokens in Liquidity Pools \(LPs\).
+您感兴趣的代币对没有农场？没问题。即使交易对没有开设农场，当您把代币押在流动性池（LPs）时，您仍然可以赚得交易手续费。
 
-## 🎲 Win
+## 🎲 赢得奖金与收藏品
 
-> PancakeSwap makes making money fun.
+> PancakeSwap 让赚钱变得更有趣
 
-### Lottery 
+### 彩票
 
-**Millions of dollars** regularly go up for grabs on the PancakeSwap Lottery.   
-Join as many as **11,000 daily players** for your chance to win big!
+PancakeSwap ****彩票奖金池时常高达**百万美元，**每天**多达 11,000 名玩家**乐在其中。加入他们，下一个赢得大奖的或许就是您！
 
-### NFT Collectibles 
+### NFT 收藏品 
 
-Win collectible NFTs for participating in trading competitions and more fun & games.
+通过参加交易大战或其他有趣的游戏，赢得 NFT 收藏品。
 
-### Prediction
+### 预测
 
-Win BNB if you can predict whether the BNB price will rise or fall.  
-New rounds every 5 minutes!  
+如果您能正确预测 BNB 的价格是上涨还是下跌，就能赢取 BNB。  
+每 5 分钟就有新一轮的比赛！
 
+## PancakeSwap 安全吗？
 
-## Is PancakeSwap safe?
+眼见为实：
 
-See for yourself:
-
-* Check out these PancakeSwap security audits: 
-  * [Certik’s security audit of PancakeSwap](https://www.certik.org/projects/pancakeswap) and [Certik's Shield insurance](https://shield.certik.foundation/)
-  * [Slowmist's security audit of PancakeSwap](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20%20-%20PancakeSwap.pdf)
-  * [Slowmist's Auto-CAKE Pool security audit](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20CakeVault.pdf)
-  * [Peckshield's Prediction V2 security audit](https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-PancakeSwap-PredictionV2-v1.0.pdf)
-* Transparent:
-  * We’re built on open-source software: our site and all our Smart Contracts are publicly visible for maximum transparency. 
-  * Our contracts are verified on BscScan so you know that what you see is what you get: [1](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E) [2](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#code) [3](https://bscscan.com/address/0xbcfccbde45ce874adcb698cc183debcf17952812) [4](https://bscscan.com/address/0x1b96b92314c44b159149f7e0303511fb2fc4774f#code) [5](https://bscscan.com/address/0x92E8CeB7eAeD69fB6E4d9dA43F605D2610214E68) 
-* Security best practices:
-  * The chefs use multisig for all contracts.
-  * Our contracts’ time-locks give you peace of mind.
+* 查看这些对于 PancakeSwap 的安全审计报告：
+  * [Certik 对 PancakeSwap 的安全审计](https://www.certik.org/projects/pancakeswap) 和 [Certik 保险盾](https://shield.certik.foundation/)
+  * [慢雾 对 PancakeSwap 的安全审计](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20%20-%20PancakeSwap.pdf)
+  * [慢雾 对自动蛋糕 Syrup 资金池的安全审计](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20CakeVault.pdf)
+* 公开透明：
+  * PancakeSwap 在开源软件上构造：我们的网站和所有的智能合约都是公开的，以便最大化透明度。
+  * 我们的智能合约均已在 BscScan 上验证源码，您可以去亲自检查：[1](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E) [2](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#code) [3](https://bscscan.com/address/0xbcfccbde45ce874adcb698cc183debcf17952812) [4](https://bscscan.com/address/0x1b96b92314c44b159149f7e0303511fb2fc4774f#code) [5](https://bscscan.com/address/0x92E8CeB7eAeD69fB6E4d9dA43F605D2610214E68) 
+* 安全操作章程：
+  * 对于所有智能合约的互动，大厨们均使用多签名钱包。
+  * 合约均有时间锁，让您放心投资。
 
 
 
-**Sounds like fun?  
-Then get flipping!** 🐰 🥞  
-****
+**听起来很有趣对吧？  
+让我们立刻开始吧！**🐰 🥞
 

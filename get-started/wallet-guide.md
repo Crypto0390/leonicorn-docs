@@ -1,44 +1,46 @@
-# Create a Wallet
+# 创建钱包
 
-![](../.gitbook/assets/docs-masthead-9-.png)
+![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbGTDNZ6xd3_Q-qSEP5%2F-MbJqNikjouS9bDl1rUt%2Fdocs%20masthead%20%289%29.png?alt=media&token=a86affdf-4276-4963-8f05-661aec80064a)
 
-To get started on PancakeSwap, the first thing you'll need is to set up a wallet that supports Binance Smart Chain \(BSC\). Wallets are available both on desktop computers and on smartphone devices. You'll need to choose the wallet that fits your needs best.
 
-{% hint style="danger" %}
-**When you're setting up a wallet, be sure to:**
 
-* ✅ **Download and install only the latest version from an official source.**
-* ✅ **Follow the setup guide carefully.**
-* ✅ **Safely back up your recovery phrases.**
-* ❌ **NEVER share your recovery phrases with anyone, under any circumstances.**
-* ❌ **NEVER input your recovery phrase to a website or app, other than your wallet app.**
-{% endhint %}
+开始使用 PancakeSwap 前，您首先需要创建一个支持币安智能链（BSC）的钱包。钱包在电脑和手机上都可以使用。请选择最适合您的钱包应用。
 
-## Smartphone/Mobile or Desktop wallet?
+**在设置钱包时，请务必注意**：
 
-Mobile device wallets and desktop-based wallets have different strengths and weaknesses. Consider which fits your needs better to help decide which type of wallet to use.
+* ✅ **从可信的官方渠道下载并安装最新版本的钱包应用。**
+* ✅ **仔细阅读并遵循设置指南进行操作。**
+* ✅ **妥善备份用于恢复钱包的助记词或私钥**
+* ❌ **在任何情况下都不要：向任何人透露您的恢复助记词或私钥！**
+* ❌ **在任何情况下都不要：在任何网站上输入您的恢复助记词或私钥！**
 
-|  | Mobile | Desktop |
+## 我应该使用手机端钱包还是电脑端钱包？
+
+您在手机与电脑上均可通过钱包软件使用 PancakeSwap，它们有各自的优势与缺点。请考虑自己的具体需求，按以下表格决定使用哪种类型的钱包应用：
+
+|  | 手机端 | 电脑端 |
 | :--- | :--- | :--- |
-| Use anywhere | ✅ | ➖ |
-| Easy to use | ✅ | ➖ |
-| More secure | ➖ | ✅ |
-| Accessibility friendly | ➖ | ✅ |
-| Damage/loss/theft resistant | ➖ | ✅ |
-| Power/connection outage resistant | ✅ | ➖ |
+| 随时随地使用 | ✅ | ➖ |
+| 简单易用 | ✅ | ➖ |
+| 更加安全 | ➖ | ✅ |
+| 对无障碍使用者更友好 | ➖ | ✅ |
+| 不易损坏/丢失/遭窃 | ➖ | ✅ |
+| 不易受网络连接/电力供应影响 | ✅ | ➖ |
 
-## **Smartphone/Mobile wallets**
+## **手机/移动设备 钱包**
 
-Smartphone/Mobile wallets allow you to access your crypto almost anywhere. Wallets are available on both Android and iOS devices.
+手机/移动设备钱包应用允许您随时随地操作您的加密货币。钱包应用在安卓和 iOS 设备上均可使用。
 
-### Which mobile wallet should I choose?
+### 我应该选择哪个手机钱包？ <a id="which-mobile-wallet-should-i-choose"></a>
 
 This comparison table gives an overview of the most popular mobile wallets used with PancakeSwap.
+
+以下表格列出时下热门的钱包应用以及他们的概况：
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"></th>
+      <th style="text-align:left">&#x200B;</th>
       <th style="text-align:left">Trust Wallet</th>
       <th style="text-align:left">MetaMask</th>
       <th style="text-align:left">Token Pocket</th>
@@ -47,16 +49,16 @@ This comparison table gives an overview of the most popular mobile wallets used 
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">Binance Smart Chain support</td>
+      <td style="text-align:left">&#x5E01;&#x5B89;&#x667A;&#x80FD;&#x94FE;&#x652F;&#x6301;</td>
       <td style="text-align:left">&#x2705;</td>
       <td style="text-align:left">&#x26A0;&#xFE0F;</td>
       <td style="text-align:left">&#x2705;</td>
       <td style="text-align:left">&#x2705;</td>
     </tr>
     <tr>
-      <td style="text-align:left">Built-in DApp browser</td>
+      <td style="text-align:left">&#x5185;&#x7F6E; DApp &#x6D4F;&#x89C8;&#x5668;</td>
       <td style="text-align:left">
-        <p>&#x2705; Android</p>
+        <p>&#x2705; &#x5B89;&#x5353;</p>
         <p>&#x26A0;&#xFE0F; iOS</p>
       </td>
       <td style="text-align:left">&#x2796;</td>
@@ -64,23 +66,24 @@ This comparison table gives an overview of the most popular mobile wallets used 
       <td style="text-align:left">&#x2705;</td>
     </tr>
     <tr>
-      <td style="text-align:left">Hardware wallet compatible</td>
+      <td style="text-align:left">&#x517C;&#x5BB9;&#x786C;&#x4EF6;&#x94B1;&#x5305;</td>
       <td style="text-align:left">&#x2796;</td>
       <td style="text-align:left">&#x2705;</td>
       <td style="text-align:left">&#x2796;</td>
       <td style="text-align:left">&#x1F536;</td>
     </tr>
     <tr>
-      <td style="text-align:left">Open source (auditability)</td>
-      <td style="text-align:left">&#x2705;</td>
-      <td style="text-align:left">&#x2705;</td>
-      <td style="text-align:left">&#x2705;</td>
-      <td style="text-align:left">&#x2796;</td>
+      <td style="text-align:left">&#x5F00;&#x6E90;&#xFF08;&#x53EF;&#x5BA1;&#x8BA1;&#x6027;&#xFF09;</td>
+      <td
+      style="text-align:left">&#x2705;</td>
+        <td style="text-align:left">&#x2705;</td>
+        <td style="text-align:left">&#x2705;</td>
+        <td style="text-align:left">&#x2796;</td>
     </tr>
     <tr>
       <td style="text-align:left">
-        <p>Interact with BscScan</p>
-        <p>(for advanced users!)</p>
+        <p>&#x53EF;&#x5728; BscScan &#x4E0A;&#x4F7F;&#x7528;</p>
+        <p>(&#x9002;&#x7528;&#x4E8E;&#x9AD8;&#x7EA7;&#x7528;&#x6237;)</p>
       </td>
       <td style="text-align:left">&#x2796;</td>
       <td style="text-align:left">&#x2705;</td>
@@ -90,349 +93,172 @@ This comparison table gives an overview of the most popular mobile wallets used 
   </tbody>
 </table>
 
-⚠️ Requires some setup  
-🔶 Only supports SafePal hardware wallet
+⚠️ 需要额外设置   
+🔶 仅支持 SafePal 硬件钱包
 
-You can find more in-depth information about each wallet below, as well as download links and installation guides.
+
+
+您可以在下方找到关于每个钱包的详细信息、下载链接和安装指南：
 
 {% tabs %}
 {% tab title="Trust Wallet" %}
 ![](../.gitbook/assets/image%20%2870%29.png)
 
-Trust Wallet is a popular wallet for smart devices. It supports DApps, NFT collectibles \(with Opensea.io support\), and in-wallet staking.
+Trust Wallet 在移动设备上颇受欢迎的钱包应用。它支持 DApps，NFT 收藏品（支持 Opensea.io），以及钱包内直接质押，
 
-**Pros:**
+**优点：**
 
-* Open source for auditability  
-* Backed by the Binance cryptocurrency exchange  
-* Easily switch between several crypto networks  
-* Includes networks by default  
-* Includes in-wallet staking options  
-* Has additional features such as NFT collection, BNB staking, and DApp access within the wallet  
+* 开源代码可审计
+* 得到币安加密货币交易所的支持
+* 在几个加密货币网络之间轻松切换
+* 默认包含币安智能链网络  
+* 含有钱包内质押选项
+* 拥有额外的功能，如：NFT 收藏品浏览、BNB 质押和钱包内的 DApp 访问。
 
-**Cons:**
+**缺点：**
 
-* Language tied to phone settings  
-* Limited DApps  
-* Transaction notifications can be delayed
+* 语言与手机设置语言绑定，无法更改
+* 有限的 DApps 支持
+* 交易通知可能会延迟
 
-[**Download Trust Wallet**](https://trustwallet.com/) \(Automatically detects device\)  
-****[**Trust Wallet Setup Guide**](https://www.binance.com/en/blog/421499824684901157/How-to-Set-Up-and-Use-Trust-Wallet-for-Binance-Smart-Chain)\*\*\*\*
+[**下载 Trust Wallet**](https://trustwallet.com/) **（自动检测您的设备）**
+
+\*\*\*\*[**Trust Wallet 设置指南**](https://www.binance.com/cn/blog/421499824684901157/How-to-Set-Up-and-Use-Trust-Wallet-for-Binance-Smart-Chain)\*\*\*\*
 {% endtab %}
 
 {% tab title="MetaMask" %}
 ![](../.gitbook/assets/image%20%2833%29%20%283%29%20%284%29%20%285%29%20%281%29.png)
 
-MetaMask is a very popular browser-based wallet plugin that supports ERC20 \(Ethereum network\) and BEP2 & BEP20 \(Binance Chain and Binance Smart Chain networks\).
+MetaMask 是一个基于浏览器的热门钱包插件，支持 ERC20（以太坊网络）、BEP2 和 BEP20（币安链与币安智能链）。
 
-​**Pros:**
+​**优点：**
 
-* Open source for auditability  
-* WEB3 capable on BscScan  
-* A strong history of security and reliability  
-* A large amount of how-to guides and resources online  
-* Many tools and custom settings  
-* Offers ETH purchases with Transak  
-* Supports a very large number of languages  
-* Is also available a browser plugin for desktop devices
+* 开源代码可审计
+* 适用于 BscScan 上的 web3 操作  
+* 优秀的安全性和可靠性记录
+* 网上有大量的资料与操作指南 
+* 非常多小工具及自定义设置  
+* 提供使用 Transak 购买 ETH 
+* 丰富的语言支持
+* 同时提供电脑浏览器插件
 
-**Cons:**
+**缺点：**
 
-* Longer setup time than other options  
-* Additional steps needed to use with Binance Smart Chain and PancakeSwap  
-* Extra information and settings may confuse beginners
+* 设置需时较长
+* 搭配币安智能链和 PancakeSwap 使用前需要一些额外设置
+* 额外的信息与设置可能会让新手感觉眼花缭乱
 
-[**Download MetaMask**](https://metamask.io/download.html) \(Automatically detects device\)  
-****[**MetaMask Setup Guide**](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)\*\*\*\*
+[**下载 MetaMask**](https://metamask.io/download.html) **（自动检测您的设备）**
+
+\*\*\*\*[**MetaMask 设置教程**](https://academy.binance.com/cn/articles/connecting-metamask-to-binance-smart-chain)\*\*\*\*
+
+  
+****
 {% endtab %}
 
 {% tab title="Token Pocket" %}
 ![](../.gitbook/assets/image%20%28125%29%20%283%29%20%284%29%20%282%29.png)
 
-Token Pocket is a cryptocurrency management app that natively supports many cryptocurrency networks. It also has a desktop application available.
+Token Pocket 是一个原生支持多个网络（加密货币链）的虚拟货币钱包。它同时也提供电脑端程序。
 
-​**Pros:**
+​**优点：**
 
-* Open source for auditability  
-* Allows users to easily switch between many crypto networks  
-* Supports many networks by default  
-* A less cramped user experience than browser plugin wallets   
-* Is also available as desktop software devices
+* 开源代码可审计
+* 在几个加密货币网络之间轻松切换
+* 默认支持多个主流加密货币网络
+* 与浏览器插件钱包相比，界面不拥挤，使用体验较为友好
+* 同时提供电脑端程序
 
-**Cons:**
+**缺点：**
 
-* Only supports Chinese and English languages  
-* Has some issues with the English translation  
-* Has fewer online resources than more established wallets
+* 只提供英文与中文
+* 部分英文翻译有问题
+* 与其他更成熟的钱包相比，在线资源较少
 
-[**Download Token Pocket App**](https://www.tokenpocket.pro/en/download/app) \(Automatically detects device\)
+\*\*\*\*[**下载 Token Pocket**](https://www.tokenpocket.pro) **（自动检测您的设备）**
 
-### **Token Pocket Mobile Setup Guide**
+### **Token Pocket 手机端设置指南**
 
-1. Visit the Token Pocket website and tap **Mobile**.
+1. 访问 Token Pocket 网站并点击 **手机下载** 开始下载
 
-![](https://lh5.googleusercontent.com/fTsZdwOn3cgT7au7KaoTxY-Ib1KMEfVP9MifMszobGFJ6BTQ0iPlQLl01CYuS3vbAVPmTz9vC3Hnw1lApk1m1I1SDG2fIfi-nN3CIE4oImXU82WCcZWVhLhq2LqY79W1UuN3oefD)
+   ![](../.gitbook/assets/image.jpeg)
 
-1. Your device will be automatically detected. Tap the **Google Play** or **App Store** button and install the Token Pocket app.
-2. Once Token Pocket is installed, open it. You’ll be met by a screen asking whether you have an existing wallet or would like to create a new one. Tap **No accounts, Create Now**.
+2. 页面将自动检测您的设备，点击 **Google Play** 或 **App Store** 前往相应的商店下载。苹果用户建议使用 TestFlight 下载 TokenPocket Pro ，请遵循页面指示。
+3. 安装 Token Pocket 后打开，您将会看到一个询问您是否已有钱包的选项。若您想导入现有的钱包，请选择「我有钱包」。点击「我没有钱包」创建一个新的钱包：
 
-If you do have an existing wallet to import, use the top option instead.
+   ![](../.gitbook/assets/mbp3-2021.08.16-103912am-cleanshot_cleanshot%20%281%29.png)
 
-![](https://lh3.googleusercontent.com/FdtGOB7N7ZKROD0EIKy5roklxcqtYwq26lZ4RX_8RxUdt-caGPAr03HNTdOtTqpD82hkBcX9umQI1VcL6n0jXky4uVy_dFDr8pReadLE80AHXkvm4mbvZZN2vxnzeaUmHXATx3GC)
+4. 在下一个页面，在列表内选择「**币安智能链**」。
 
-1. On the next page, find **Binance Smart Chain** in the list and tap it.
+   ![](../.gitbook/assets/image%20%281%29.png)
 
-![](https://lh5.googleusercontent.com/TGpsjTq_B1rLK-A8Cqzq9sC0IACpDZFCbpwN5_GD4r8sCRmaqAdbswC-OmWAM7YiKATEaHTHviODFueMA6sCDSGlvNslYjGWQIrX5X8oR_5pGPuMJ6X7_Gz-rEoJwzmS9exEybbs)
+5. 接下来，选择顶部的「**创建钱包**」继续。
 
-1. Next, on the “Create way” page, tap **Create Wallet**.
+   ![](../.gitbook/assets/mbp3-2021.08.16-104543am-cleanshot_cleanshot.png)
 
-![](https://lh4.googleusercontent.com/AvN_ssg1eWtArzqvT0oaxWGC-GR6lfG6GjzhIbvIpYO6b2om9ZYtNa5GWlU7KW31cKjPqFmSsx8zSjvT_Bxw2zAqvVSMylbQWCCXYwnJOVM5jOxg9u7lt6_Yy5AySM72HSS99v0n)
+6. 您需要设置一个保护您账号的密码。为了您的安全，请确保密码强度为「安全」。同时您可以添加一个密码提示，但请确保任何人无法用提示轻易地猜出密码。设置完后，点击「**创建钱包**」继续。
+7. 接着，钱包会提醒您备份助记词。请注意！助记词就是您的「银行卡卡号 + 密码」，任何人掌握了助记词，就可以操作您在区块链上该钱包内的**一切资产**！请务必使用多种方法妥善保管，不要透露给任何人。PancakeSwap 的社区管理员不会向您询问任何私钥或助记词。
 
-1. You’ll be asked to enter a password. For your security, make sure your password is judged as “Strong”. You can also add a hint, but make sure it’s something only you will understand. When you’re ready, tap **Create Wallet**.
+备份好助记词并验证后，创建钱包的操作就完成了。
 
-And that’s it, all done!
+想要通过 TokenPocket 连接币安智能链并使用 PancakeSwap，您可参考「如何连接钱包」教程中的 TokenPocket 部分：  
+[https://docs.pancakeswap.finance/get-started/connection-guide](https://docs.pancakeswap.finance/get-started/connection-guide).
 
-To connect to Binance Smart Chain and use PancakeSwap, you can follow the TokenPocket section of our Connect Your Wallet to PancakeSwap guide [https://docs.pancakeswap.finance/get-started/connection-guide](https://docs.pancakeswap.finance/get-started/connection-guide).
+### 导出私钥并在另一台手机或电脑上使用
 
-### Getting private key from mobile to import to desktop
-
-Token Pocket lets you use both a desktop and mobile wallet. This section will cover how to get your private key from your mobile wallet to import into your desktop wallet.
+Token Pocket 允许您使用电脑端或其他设备同时管理一个钱包，这部分教程讲引导您如何导出私钥，并在其他设备上同时使用。
 
 {% hint style="warning" %}
-Please be extremely careful with how you handle your private keys. Giving your private keys to someone will give them full access to your coins! Token Pocket is an open source project and will use your private key to import your wallet. Even so, only use your private key with applications you trust and can verify are legitimate!
+在操作私钥时请务必小心，任何人只要获得您的私钥，即可操作您在区块链上该钱包内的所有资产！Token Pocket 是一个公开透明的开源项目，它将使用您的私钥来导入钱包，仅此而已。所以，请务必仔细验证任何您要导入私钥的程序是否为正规，且不含恶意代码。
 {% endhint %}
 
-1. Tap the **Me** tab on the bottom ribbon and tap **Manage Wallets**.
+1. 在底部点击「**我的**」，并选择「**钱包管理**」。
 
-![](https://lh3.googleusercontent.com/_DE3EO8bsI5wKZlkTeJv3zZ77LR8SVQYOwB4EXbY_GhKzz4PSZpo3MdlvrU8sLoLyPcRQjdjOA24VPjAa_UZdt-JaiRgPMk67uBs7JIi5gp9gV1_wDB7fW7FQoFogTMZ_EQJYxcQ)
+   ![](../.gitbook/assets/mbp3-2021.08.16-105958am-cleanshot_cleanshot.png)
 
-1. On the next page, tap the **Binance Smart Chain** entry. Be careful not to tap the address part, or you’ll only copy that to clipboard instead.
+2. 在下一页的左侧点击「**币安智能链**」，并找到您想导出私钥的钱包，点击向右箭头。
 
-![](https://lh4.googleusercontent.com/jLhXL03uhZHBKbHaPvy3ZrD1EmYCR8ECqwMxQIzTKnUtxMNntaDA8Dx4oVlXSadoFhhJqZACsYWVPfvITBEpWfkCfwntcQY3Fw5EYgGH-tmva8PZbvYbBRCy_c5V7E1yQHvXiU0F)
+   ![](../.gitbook/assets/mbp3-2021.08.16-110225am-cleanshot_cleanshot.png)
 
-1. When the menu appears, find and tap the **Export Private Key** option. Type in your password to get your private key.
+3. 当菜单出现时，选择「**导出私钥**」，输入密码即可获得并复制您的钱包私钥。
 
 {% hint style="danger" %}
-\*\*NEVER, in any situation, should you ever give someone your private key or recovery phrase \("seed phrase"\). This will give someone complete access to your crypto!
+**任何情况下都绝对不要给任何人提供您的私钥或助记词。如果有人向您索取私钥或助记词，请立即将其举报并封禁。**
 
-The genuine PancakeSwap site and staff will never ask you to input your seed phrase.\*\*
+管理员**绝对不会**主动跟您私聊。如果有人假扮成客服直接与您联系，请立即点击封禁并将其举报为垃圾信息。
 {% endhint %}
-
-Now you have your private key ready to import your wallet into the desktop version of Token Pocket.
 {% endtab %}
 
 {% tab title="SafePal" %}
 ![](../.gitbook/assets/image%20%2826%29.png)
 
-SafePal is available as both a software and hardware wallet. The wallet is easy to install and create, and comes ready to support BEP2 \(Binance Chain\) and BEP20 \(Binance Smart Chain\) right away.
+SafePal 有软件和硬件钱包两种形式。该钱包 App 安装便捷，设置步骤简单，并原生支持币安链 \(BEP2\) 和币安智能链 \(BEP20\)。
 
-**Pros:**
+**优点：**
 
-* Easily switch between several crypto networks  
-* Offers 25% fee discount paying with BNB \(requires login\)  
-* Has the option for Google Authenticator built in  
-* Supports a large number of languages  
-* Setup process is very simple  
-* Is available as both a software and hardware wallet \(work together\)  
-* Supports NFTs on both the BSC and ETH networks
+* 在几个加密货币网络之间轻松切换
+* 使用 BNB 支付时有机会获得 25% 手续费折扣（需要登录）
+* 内置谷歌认证器
+* 丰富的语言支持
+* 设置步骤简单快捷
+* 同时提用软件和硬件钱包（协同使用）
+* 支持币安智能链和以太坊上的 NFT 收藏品展示及管理
 
-**Cons:**
+**缺点：**
 
-* Isn't fully open source  
-* Has some features that are not yet ready for use \(such as DeFi\)  
-* Does not give user notifications  
-* Does not enforce strong security during initial setup and wallet creation  
-* Has fewer online resources than more established wallets
+* 代码非完全开源 
+* 某些功能尚未完善（如 DeFi）
+* 不支持通知消息提醒
+* 初始设置及钱包创建时，并不强制用户使用强安全凭证
+* 与其他更成熟的钱包相比，在线资源较少
 
-​[**Download SafePal**](https://safepal.io/download) \(Automatically detects device\)  
-[**SafePal Setup Guide**](https://blog.safepal.io/binance-smart-chain-x-safepal/)
+​[**下载 SafePal**](https://safepal.io/download) **（自动检测您的设备）**  
+[**SafePal 设置教程（英文）**](https://blog.safepal.io/binance-smart-chain-x-safepal/)  
+****[**SafePal 设置教程（中文）**](https://docs.safepal.io/safepal-app/how-to-create-a-safepal-software-wallet/ru-he-chuang-jian-safepal-ruan-jian-qian-bao)\*\*\*\*
 {% endtab %}
 {% endtabs %}
 
-## **Desktop/Web Browser wallets**
+## \*\*\*\*
 
-Desktop wallets are available on your home computer or laptop computer. Wallets on your computer can run as standalone applications, or as web browser plugins for popular browsers like Chrome and Firefox.
 
-### Which desktop wallet should I choose?
-
-This comparison table gives an overview of the most popular desktop wallets used with PancakeSwap.
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left"></th>
-      <th style="text-align:left">MetaMask</th>
-      <th style="text-align:left">Binance Wallet</th>
-      <th style="text-align:left">Token Pocket</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Binance Smart Chain support</td>
-      <td style="text-align:left">&#x26A0;&#xFE0F;</td>
-      <td style="text-align:left">&#x2705;</td>
-      <td style="text-align:left">&#x26A0;&#xFE0F;</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Built-in DApp browser</td>
-      <td style="text-align:left">&#x2796;</td>
-      <td style="text-align:left">&#x2796;</td>
-      <td style="text-align:left">&#x2705;</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Hardware wallet compatible</td>
-      <td style="text-align:left">&#x2705;</td>
-      <td style="text-align:left">&#x2705;</td>
-      <td style="text-align:left">&#x2796;</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Open source (auditability)</td>
-      <td style="text-align:left">&#x2705;</td>
-      <td style="text-align:left">&#x2705;</td>
-      <td style="text-align:left">&#x2705;</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p>Interact with BscScan</p>
-        <p>(for advanced users!)</p>
-      </td>
-      <td style="text-align:left">&#x2705;</td>
-      <td style="text-align:left">&#x2796;</td>
-      <td style="text-align:left">&#x2796;</td>
-    </tr>
-  </tbody>
-</table>
-
-⚠️ Requires additional setup
-
-You can find more in-depth information about each wallet below, as well as download links and installation guides.
-
-{% tabs %}
-{% tab title="MetaMask" %}
-![](../.gitbook/assets/image%20%2833%29%20%283%29%20%284%29%20%285%29.png)
-
-MetaMask is a very popular browser-based wallet plugin that supports ERC20 \(Ethereum network\) by default, and BEP2 & BEP20 \(Binance Chain and Binance Smart Chain networks\) with a little work.
-
-​**Pros:**
-
-* Open source for auditability  
-* WEB3 capable on BscScan  
-* A strong history of security and reliability  
-* A large amount of how-to guides and resources online  
-* Many tools and custom settings  
-* Supports a very large number of languages  
-* Is also available on mobile devices
-
-**Cons:**
-
-* Longer setup time than other options  
-* Additional steps needed to use with Binance Smart Chain and PancakeSwap  
-* Extra information and settings may confuse beginners
-
-[**Download MetaMask**](https://metamask.io/download.html) \(Automatically detects browser\)  
-[**MetaMask Setup Guide**](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)
-{% endtab %}
-
-{% tab title="Binance Wallet" %}
-![](../.gitbook/assets/image%20%28126%29.png)
-
-Binance Wallet is a browser-plugin wallet that natively supports the Binance Chain \(BEP2\) Binance Smart Chain \(BEP20\) networks. Binance Wallet was developed by the Binance cryptocurrency exchange.
-
-​**Pros:**
-
-* Open source for auditability  
-* Backed by the Binance cryptocurrency exchange  
-* Can be directly linked to a Binance or Gmail account  
-* A streamlined user experience  
-* Supports Binance Smart Chain by default, making using PancakeSwap easy  
-* Supports a large number of languages  
-* Hardware wallet compatible
-
-**Cons:**
-
-* Lacks some custom settings of other wallets  
-* Lack of additional tools makes some actions available in other wallets impossible  
-* Has fewer online resources than more established wallets
-
-[**Download Binance Wallet**](https://www.binance.org/en) \(Automatically detects browser\)  
-[**Binance Wallet Setup Guide**](https://docs.binance.org/smart-chain/wallet/binance.html)
-{% endtab %}
-
-{% tab title="Token Pocket" %}
-![](../.gitbook/assets/image%20%28125%29%20%283%29%20%284%29.png)
-
-Token Pocket is a standalone application available for both Mac OS and Win64 devices. Token Pocket allows you to manage your cryptocurrency in software independent of your browser.
-
-​**Pros:**
-
-* Open source for auditability  
-* Independent of your browser and any of its permissions  
-* Allows users to easily switch between many crypto networks  
-* Supports many networks by default  
-* A less cramped user experience than browser plugin wallets   
-* Is also available on mobile devices
-
-**Cons:**
-
-* Asks users to enter their private key as part of desktop setup process  
-* Only supports Chinese and English languages  
-* Has some issues with the English translation  
-* Has fewer online resources than more established wallets
-
-[**Download Token Pocket Desktop Wallet**](https://www.tokenpocket.pro/en/download/pc) \(MacOS or Win64\)
-
-### **Token Pocket Desktop Setup Guide**
-
-The desktop version of Token Pocket will ask you to import a private key. Please make sure you’re familiar with and understand the importance of a private key before you proceed.
-
-Token Pocket is an open source project, so the code is publicly visible and generally considered safe. Even so, your private keys are your responsibility, so only use them with applications you trust and can verify.
-
-1. Visit the Token Pocket website on your PC and click the **Desktop** button.
-
-![](https://lh3.googleusercontent.com/8BvpBrdR19cHhjJq0_xOFQwpTDLaYUxqLAM03JPFzBPz93SHl3n84Dw_kICcfOR80iVZFS1QfYsexEUMNnchMLGSH11lHKMqBQWAJUZy7yd0LM6jaFrwRGt5EluBRo_uDqJBqbg2)
-
-1. On the next page, click the button for your operating system and wait for your download to finish. This guide uses Windows, but the process is largely the same on Mac OS.
-
-![](https://lh3.googleusercontent.com/SrYkM-cFg_tO3RcTlYv2Rq4pViUzRSw5el_JR8SnQYDmvVYupjJveTUXHr8QPeo30Ooc4EHBKEuYjxM1JbtirRHitGJtZ-2ET_Xk5a5DRbhqwyJToToii-s6Ch195p5o3Eo4Ajnm)
-
-1. Run the installation file. It will ask you to choose between making Token Pocket available to everyone using the computer, or just the current user. For your security, we recommend current user only.
-
-![](https://lh3.googleusercontent.com/EnmEle5PcVenTxE7jEtEHhQxeXwKjhzlOkZH67ByFLAIo4RMife2u4n36uDDGjTB8h64KxS0wmlI8FKAbxB6KvjvhD-WgCqdKpyUP1YM4tmxqTzjLGPuqDmf5ABTyY_5-wG7ppgG)
-
-1. Enter a destination folder to install to and click **Install**.
-
-![](https://lh6.googleusercontent.com/ED7cl2_ZGBkUvM-A7CpE_bRNfdLQ8DcD2qmq6KaGAUIZTi_06f7BA_m-xBhoFzrczfTZQENsYji2Xlh_DNh0zWpmRnuo45HKX2r8zJxrBtqXkuPgxfCd4jAIvMytHu6iT_ZPRxmI)
-
-1. Once the installation is finished, click **Finish** and run Token Pocket.
-2. When Token Pocket opens, you may find yourself looking at a Chinese interface. You can change to English by clicking EN in the bottom-left corner.
-
-![](https://lh6.googleusercontent.com/V3VS6TaN0rJtfqjzCo5QEtS1ywJn_bmmB2hKWLbUGRy_-Pk83kGfu9feB35VAi4TC7BHKTqkApDagBuWP7XS3tVNzhcMPmANGqLlsOecumQpMMisvUBiABqi05351e7cNUgktWsO)
-
-1. Token Pocket will be asking you to create a password. Make sure you use something that’s hard to guess; the longer the password is, the more secure. When you’re done, click **Confirm**.
-
-![](https://lh5.googleusercontent.com/GQqBU7OEK7BQuJc4NiOHEqt3kjO-B6jM6AAv3PFD6DoYuXywuOz6365Z5rPmNtkigWSg3f1_zzvoHfWAUvqIpEKaAajkDxVwlaWAljIW1ZGdgSwqECVa2CwgtS_vOOcX8faW19gB)
-
-1. On the next page, Token Pocket will be asking you to import a private key. This may be intimidating, but Token Pocket will work as an interface for your existing wallet. You’ll need to get your private from whatever existing wallet you want to use.  
-
-Here is a [guide for getting your private key from MetaMask](https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Account-Private-Key). To import your private key from the mobile version of Token Pocket, see the Mobile Token Pocket tab higher up this page. If you use another wallet and don’t know how to get your private key, you’ll need to find a guide.
-
-{% hint style="warning" %}
-Please be extremely careful with how you handle your private keys. Giving your private keys to someone will give them full access to your coins! Token Pocket is an open source project and will use your private key to import your wallet. Even so, only use your private key with applications you trust and can verify are legitimate!
-{% endhint %}
-
-![](https://lh5.googleusercontent.com/1ZNrWBvjfL_1joVAxKQVdXbQnGFmbyw1PXAqgAGwaH73KAkrFgJR8N_pYBJwY_FTyXy-y_fRuks3Ne_n-9xJWVEvOg9NnNMup82smXwGYnDzPqV4Wc9E_CCE9WKPX9nAP-SoPhxM)
-
-1. Once you’ve entered your private key, click the **Ethereum** network for now.
-
-![](https://lh5.googleusercontent.com/g_iZzJZAPhsBQUBgQqTvLO1HfuGnCGZDkRD3DFu4g4GPat901700Qk3aBx8Fx5AzY2PH7JYajGM4-4fXm6icPWB-8R5wQQst-W3NWJ6n0Rh_bbPKXnXrO4h_JEgu7wtey11EuCN-)
-
-And that’s it, all done! You can follow our [Connect Your Wallet to PancakeSwap guide](https://docs.pancakeswap.finance/get-started/connection-guide) to connect to Binance Smart Chain and PancakeSwap.
-{% endtab %}
-{% endtabs %}
-
-{% hint style="danger" %}
-\*\*NEVER, in any situation, should you ever give someone your private key or recovery phrase \("seed phrase"\). This will give someone complete access to your crypto!
-
-The genuine PancakeSwap site and staff will never ask you to input your seed phrase.\*\*
-{% endhint %}
 

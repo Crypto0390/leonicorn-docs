@@ -1,241 +1,159 @@
-# Connect Your Wallet to PancakeSwap
+# 连接钱包
 
-![](../.gitbook/assets/docs-masthead-11-%20%281%29.png)
+![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbGTDNZ6xd3_Q-qSEP5%2F-MbJq3Dbj4RfmZnUl8jY%2Fdocs%20masthead%20%2811%29.png?alt=media&token=6f27f693-700e-48a5-bf90-6fe6bb1e5b7a)
 
-You've made a wallet and gotten your BEP20 tokens, now you just need to connect your wallet with PancakeSwap and you're good to go!
+现在，您已经拥有钱包和 BEP-20 代币。现在，只需要将钱包连接至 PancakeSwap ，即可开始使用！
 
-Check out the steps below for how to connect each of our recommended wallets to PancakeSwap.
+请查看下列钱包连接教程，囊括所有我们推荐使用的钱包 App：
 
-## Smartphone/Mobile
+## 手机钱包 <a id="smartphone-mobile"></a>
 
 {% tabs %}
 {% tab title="Trust Wallet" %}
-![](../.gitbook/assets/image%20%2870%29.png)
+![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-Maajz3RNBhCbi_iel09%2F-MaaqWJXQio1awWtJiub%2Fimage.png?alt=media&token=63e7a2d9-8a05-49ac-b3dd-063f87f3a8b6)
 
-To connect Trust Wallet follow the steps below. Note that Android and iOS devices do not use the same steps!
+请按照下方教程连接钱包，注意，苹果与安卓的连接方式不同！
 
-## Android
+## 安卓 Android
 
-1. Open Trust Wallet and tap the **DApps** button on the bottom of the screen.
+1. 打开 Trust Wallet 并点击底部 **DApps** 按钮。
 
-![](../.gitbook/assets/image%20%2898%29.png)
+   ![](../.gitbook/assets/mbp3-2021.08.16-121140pm-cleanshot_cleanshot.png)
 
-1. Scroll down to "Popular" and tap on "PancakeSwap". You can also find it in "Exchanges".
+2. 在 "Popular" 区域，找到 "PancakeSwap"，同时，您也可以在 "Exchanges" 区域内找到。
 
-![](../.gitbook/assets/image%20%28138%29.png)
+   ![](../.gitbook/assets/mbp3-2021.08.16-121222pm-cleanshot_cleanshot.png)
 
-1. A new page will open with the PancakeSwap logo and some information. Tap the **Connect** button.
+3. 一个含有 PancakeSwap 信息的页面会弹出，请点击 "Connect" 按钮。
 
-![](../.gitbook/assets/image%20%28114%29.png)
+   ![](../.gitbook/assets/mbp3-2021.08.16-121340pm-cleanshot_cleanshot.png)
 
-1. PancakeSwap will open up. If you see a **Connect** button in the top-right tap that and tap **Trust Wallet** from the list.
+4. PancakeSwap 页面会打开，若您看到右上角有「连接钱包 / Connect Wallet」按钮，请点击并选择 "Trust Wallet"
 
 {% hint style="warning" %}
-If you find you are unable to connect at step 4, go back to the DApps menu and find "PancakeSwap" again. Using "Pancake Swap" from the "History" section may result in the same problem.
+如您无法成功连接，请回到 DApps 菜单，确认右上角的网络图标为币安智能链 \(BSC\)，并再次点击 PancakeSwap 重试。
 {% endhint %}
 
-## iOS
+## 苹果 iOS
 
-To connect to PancakeSwap through iOS, Trust Wallet have prepared a detailed guide on using WallteConnect.
+请参照以下教程使用 WalletConnect 连接 Trust Wallet：
 
-Read the [Trust Wallet guide to connecting to PancakeSwap via WalletConnect](https://community.trustwallet.com/t/using-walletconnect-to-access-pancakeswap/212307).
-
-## **Resources**
-
-[**Download Trust Wallet**](https://trustwallet.com/) \(Automatically detects device\)  
-****[**Trust Wallet Setup Guide**](https://www.binance.com/en/blog/421499824684901157/how-to-set-up-and-use-trust-wallet-for-binance-smart-chain)\*\*\*\*
+[使用教程（英语）](https://community.trustwallet.com/t/using-walletconnect-to-access-pancakeswap/212307)
 {% endtab %}
 
 {% tab title="MetaMask" %}
-![](../.gitbook/assets/image%20%2833%29%20%283%29%20%284%29%20%285%29%20%281%29.png)
+![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MaWbwvtRDRxirgNEPwC%2F-MaXDK47yFhEeM1ypg2f%2Fimage.png?alt=media&token=0fd62a2b-6dec-4bac-ba84-ed3eaca63d08)
 
-To connect MetaMask to PancakeSwap follow the steps below.
+请先跟随以下视频 + 文字教程添加币安智能链 \(BSC\) 至 MetaMask：
 
-## Android and iOS
+🎥 [如何添加币安智能链 \(BSC\)](https://t.me/PancakeSwap_CN/143416)  
+若您有任何疑问，欢迎加入上面消息所在的 PancakeSwap 官方中文电报群组，寻求帮助！  
 
-1. Open MetaMask and tap on the **burger icon** in the top-left.
 
-![](../.gitbook/assets/image%20%2824%29.png)
+1. 成功添加网络后，您即可回到主界面，选择「浏览器」
 
-1. Tap **Settings** in the menu.
+   ![](../.gitbook/assets/mbp3-2021.08.16-122242pm-cleanshot_cleanshot.png)
 
-![](../.gitbook/assets/image%20%2885%29.png)
-
-1. In the Settings menu, tap on **Network**.
-
-![](../.gitbook/assets/image%20%2843%29.png)
-
-1. Tap on the **Add Network** button at the bottom.
-
-![](../.gitbook/assets/image%20%2882%29.png)
-
-1. On the page that opens, type in the following details:
-
-**Network Name:** Binance Smart Chain  
-**RPC Url:** [https://bsc-dataseed.binance.org](https://bsc-dataseed.binance.org)  
-**Chain ID:** 56  
-**Symbol:** BNB  
-**Block Explorer URL:** [http://bscscan.com](http://bscscan.com)
-
-1. Once you've confirmed entry of the new network, go back to the burger menu and tap **Browser**.
-
-![](../.gitbook/assets/image%20%2869%29.png)
-
-1. Type "PancakeSwap" into the search field and start the search. The top result will be the PancakeSwap exchange. Tap to enter it.
-2. You wallet will ask you to connect. Tap **Connect** to connect to PancakeSwap.
-
-![](../.gitbook/assets/image%20%2866%29.png)
-
-## Resources
-
-[**Download MetaMask**](https://metamask.io/download.html) \(Automatically detects device\)  
-****[**MetaMask Setup Guide**](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain%29)\*\*\*\*
+2. 在地址栏输入 [pancakeswap.finance](https://pancakeswap.finance) ，请注意，不要过分依赖搜索引擎，小心钓鱼网站。
+3. 您的钱包将询问您是否连接，请点击右下角蓝色按钮。
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](../.gitbook/assets/image%20%28125%29%20%283%29%20%284%29%20%282%29.png)
+![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2Fsync%2Fb9951be50d03d9ac5a49667dfa033fb55635011f.png?alt=media)
 
-Token Pocket is a cryptocurrency management app that natively supports many cryptocurrency networks. It also has a desktop application available.
+请按照下方教程连接钱包，注意，苹果 iOS 若要使用 DApp ，需下载 TestFlight 的 Token Pocket Pro ！
 
-## **Android and iOS**
+1. 点击底部的「发现」按钮。
 
-1. Tap the **Discover** button on the bottom of the main screen.
+   ![](../.gitbook/assets/mbp3-2021.08.16-124330pm-cleanshot_cleanshot.png)
 
-![](../.gitbook/assets/image%20%28131%29.png)
+2. 您会在 DApp 浏览器内的「热门 DApp」区域找到 "PancakeSwap"，点击打开。
 
-1. You'll see a DApp browser page open. Under "Recommended", find and tap the **PancakeSwap** button. If you can't see PancakeSwap under Recommended, you can also find it under "BSC".
+   ![](../.gitbook/assets/mbp3-2021.08.16-124527pm-cleanshot_cleanshot.png)
 
-![](../.gitbook/assets/image%20%28115%29.png)
+3. 一个警告窗口将弹出，点击「我知道了」，继续操作。
 
-1. A window will open saying that you will be opening a third party DApp. Tap **I got it** and you'll be taken to PancakeSwap's website connected to your wallet.
+   ![](../.gitbook/assets/mbp3-2021.08.16-124631pm-cleanshot_cleanshot.png)
 
-![](../.gitbook/assets/image%20%28119%29.png)
-
-**Resources**  
-[**Download Token Pocket App**](https://www.tokenpocket.pro/en/download/app) \(Automatically detects device\)  
-**Token Pocket Mobile Setup Guide**
+4. 页面载入后，点击右上角的「连接钱包 / Connect Wallet」按钮，并点击 "MetaMask" 即可连接。
 {% endtab %}
 
 {% tab title="SafePal" %}
-![](../.gitbook/assets/image%20%2826%29.png)
+![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-Maajz3RNBhCbi_iel09%2F-MaaqhTbKsOcMi5lbmNT%2Fimage.png?alt=media&token=94b6b052-c950-4568-8fd6-ae3da395e1ab)
 
-SafePal is available as both a software and hardware wallet. The wallet is easy to install and create, and comes ready to support BEP2 \(Binance Chain\) and BEP20 \(Binance Smart Chain\) right away.
+1. 点击屏幕下方的**四个方块**，打开 DApp 浏览器。
 
-## **Android and iOS**
+   ![](../.gitbook/assets/mbp3-2021.08.16-125215pm-cleanshot_cleanshot.png)
 
-1. Tap the **4 squares** icon button on the bottom of the main screen.
+2. 在 "DeFi" 下找到 PancakeSwap，点击打开。
 
-![](../.gitbook/assets/image%20%2878%29.png)
+   ![](../.gitbook/assets/image%20%2821%29.png)
 
-1. You'll see a DApp browser page open. Under "DeFi", find and tap the **PancakeSwap** button. If you can't see PancakeSwap under DeFi, you can also find it under "BSC".
+3. 一个警告窗口将弹出，点击「确认」继续。
 
-![](../.gitbook/assets/image%20%2854%29.png)
+   ![](../.gitbook/assets/mbp3-2021.08.16-125400pm-cleanshot_cleanshot.png)
 
-1. A window will open saying that you will be opening a third party DApp. Tap **Confirm** and you'll be taken to PancakeSwap's website connected to your wallet.
-
-![](../.gitbook/assets/image%20%28137%29.png)
-
-**Resources**  
-​[**Download SafePal**](https://safepal.io/download) \(Automatically detects device\)  
-[**SafePal Setup Guide**](https://blog.safepal.io/binance-smart-chain-x-safepal/)
+4. 点击右上角的「连接钱包 / Connect Wallet」按钮，选择 "MetaMask" 即可。
 {% endtab %}
 {% endtabs %}
 
-## **Desktop/Web Browser wallets**
+## **电脑钱包**
 
 {% tabs %}
 {% tab title="MetaMask" %}
-![](../.gitbook/assets/image%20%2833%29%20%283%29%20%284%29%20%285%29.png)
+![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2Fsync%2F1be522018fd3464faa261684c1fecb910630f2a0.png?alt=media)
 
-## Chrome and Firefox
+请先跟随以下视频 + 文字教程添加币安智能链 \(BSC\) 至 MetaMask：
 
-1. Open MetaMask and click on the **network selector** at the top. By default it will show "Ethereum Mainnet". Scroll down and click **Custom RPC**.
+🎥 [如何添加币安智能链 \(BSC\)](https://t.me/PancakeSwap_CN/143416)  
+若您有任何疑问，欢迎加入上面消息所在的 PancakeSwap 官方中文电报群组，寻求帮助！
 
-![](../.gitbook/assets/image%20%2812%29.png)
+1. 成功添加网络后，您即可访问 [PancakeSwap 主页](https://pancakeswap.finance/)，点击右上角「连接钱包 / Connect Wallet」图标，并选择 MetaMask 。
+2. MetaMask 将弹出窗口请求确认，请点击「下一步」，然后点击「连接」。
 
-1. A window will open. Type in the details below.
-
-**Network Name:** Binance Smart Chain  
-**New RPC URL:** [https://bsc-dataseed.binance.org](https://bsc-dataseed.binance.org)  
-**Chain ID:** 56  
-**Currency Symbol \(optional\):** BNB  
-**Block Explorer URL \(optional\):** [http://bscscan.com](http://bscscan.com)
-
-![](../.gitbook/assets/image%20%2849%29.png)
-
-1. Make sure you've typed everything in correctly and click **Save**. Binance Smart Chain will now be one of your network options.
-
-![](../.gitbook/assets/image%20%2839%29.png)
-
-1. Visit the [PancakeSwap website](https://pancakeswap.finance/). In the top right corner you'll see the **Connect** button. Click it.
-
-![](../.gitbook/assets/image%20%28164%29%20%283%29%20%283%29.png)
-
-1. A window will appear asking you to choose a wallet to connect to. Click **MetaMask** \(it's the top option on the list\).
-
-![](../.gitbook/assets/image%20%284%29.png)
-
-## Resources
-
-[**Download MetaMask**](https://metamask.io/download.html) \(Automatically detects browser\)  
-[**MetaMask Setup Guide**](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)
+   ![](../.gitbook/assets/mbp3-2021.08.16-092305pm-chromium_metamask-notification.png)
 {% endtab %}
 
-{% tab title="Binance Wallet" %}
-![](../.gitbook/assets/image%20%28126%29.png)
+{% tab title="币安钱包" %}
+![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-Maajz3RNBhCbi_iel09%2F-MaarA5-6dcy2iDE5Iwx%2Fimage.png?alt=media&token=15746c07-8908-49db-85ff-b17dcf3ad39c)
 
-## Chrome and Firefox
+1. 请按照提示正确创建钱包并妥善备份好您的助记词。或使用现有助记词导入恢复钱包。
+2. 在顶部的网络选项中，选择「币安智能链」
 
-1. Open Binance Chain Wallet and click on the network selector at the top. The default network will be Binance Chain. Choose **Binance Smart Chain** from the list.
+   ![](../.gitbook/assets/mbp3-2021.08.16-093043pm-chromium_.png)
 
-![](../.gitbook/assets/image%20%2871%29.png)
+3. 访问 [PancakeSwap 主页](https://pancakeswap.finance/) ，点击右上角的「连接钱包 / Connect Wallet」，选择「更多 / More」，并选择 "Binance Chain"。
 
-1. Visit the PancakeSwap website. In the top-right, click **Connect**.
+   ![](../.gitbook/assets/mbp32021.08.16093605pmchromium-shou-cang-pin-pancakeswap-22.285.png)
 
-![](../.gitbook/assets/image%20%28164%29%20%283%29%20%283%29%20%281%29.png)
+4. 钱包将弹出界面要求确认，请点击「连接」。
 
-1. A window will appear asking you to choose a wallet to connect to. Click **Binance Chain Wallet** \(it's farther down the list\).
+## 下载
 
-![](../.gitbook/assets/image%20%2830%29.png)
-
-## Resources
-
-[**Download Binance Wallet**](https://www.binance.org/en) \(Automatically detects browser\)  
-**Binance Wallet Setup Guide**
+[**下载币安钱包**](https://www.binance.org/en) ****（请在弹出的页面内自行选择下载）
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](../.gitbook/assets/image%20%28125%29%20%283%29%20%284%29.png)
+![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2Fsync%2Fb9951be50d03d9ac5a49667dfa033fb55635011f.png?alt=media)
 
-## Desktop Application
+1. 当您第一次启动应用程序，将显示 DApp 页面。若没有显示，请手动点击进入。
+2. 在页面中部，找到 **BSC**。
 
-1. When you open the application, DApps should be the default page \(if not, click to the DApps page\).
-2. Half way down the page you'll see a list of networks to choose from. Click **BSC**.
+   ![](../.gitbook/assets/image%20%2847%29.png)
 
-![](../.gitbook/assets/image%20%2847%29.png)
+3. 在 DApps 列表中，点击 **PancakeSwap。**
 
-1. On the list of BSC DApps, you'll find PancakeSwap links. Click a **PancakeSwap** link.
+   ![](../.gitbook/assets/image%20%28111%29.png)
 
-![](../.gitbook/assets/image%20%28111%29.png)
-
-{% hint style="warning" %}
-Make sure you don't choose the "PancakeSwap data analysis" option. If you do, you will not be able to connect.
-{% endhint %}
-
-1. Your browser will open a PancakeSwap tab and attempt to connect to Token Pocket.
+4. 您的浏览器将弹出是否允许连接的提示。
 
 {% hint style="warning" %}
-You will not be able to use both MetaMask and TokenPocket connecting through the same web browser. Make sure you use a web browser without MetaMask plugin installed if you're using TokenPocket on your desktop computer.
+请不要点击 "PancakeSwap data analysis" ，您将无法在该站点连接钱包。
 {% endhint %}
 
-## Resources
-
-[**Download Token Pocket Desktop Wallet**](https://www.tokenpocket.pro/en/download/pc) \(MacOS or Win64\)  
-**Token Pocket Desktop Setup Guide**
+{% hint style="warning" %}
+您无法在同一浏览器上同时使用 MetaMask 和 TokenPocket ，若您要在电脑上使用 TokenPocket ，请确保您浏览器没有安装 MetaMask 插件。
+{% endhint %}
 {% endtab %}
 {% endtabs %}
-
-{% hint style="danger" %}
-**Remember - NEVER, under any situation, should you ever give someone your private key or recovery phrases.**
-{% endhint %}
 
